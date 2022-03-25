@@ -31,7 +31,7 @@ By @AsadSupport And @Alexa_Help
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/AsadSupport/77")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
