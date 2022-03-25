@@ -1,4 +1,4 @@
-## ❤️ Pyrogram String Generator ❤️
+## ❤️ Pyrogram And Telethon String Generator ❤️
 
 Thia Bot Will Allow You To Generate Pyrogram And Telethon String For Telegram Developed  ❤️
 
