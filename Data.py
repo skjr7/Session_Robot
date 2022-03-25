@@ -15,7 +15,7 @@ If you don't trust this bot,
 Still reading?
 You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
 
-By @StarkBots
+By @AsadSupport And @Alexa_Help
     """
 
     # Home Button
@@ -36,7 +36,7 @@ By @StarkBots
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/Alexa_Help")],
     ]
 
     # Help Message
@@ -55,13 +55,29 @@ By @StarkBots
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to generate pyrogram and telethon string session by @StarkBots
+A telegram bot to generate pyrogram and telethon string session by @AsadSupport
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/StringSessionBot)
+Source Code : [Click Here](https://t.me/Alexa_Help)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer : @Dr_Asad_Ali
     """
+
+
+REPO = """━━━━━━━━━━━━━━━━━━━━━━━━
+💥 A ᴘᴏᴡᴇʀғᴜʟ ʙᴏᴛ
+ᴏғ ♻️ ᴅʀ ᴀsᴀᴅ ᴀʟɪ 🔥
+━━━━━━━━━━━━━━━━━
+GENERATE SESSION FOR TG...
+┏━━━━━━━━━━━━━━━━━┓
+┣★ [𝐂𝐫𝐞𝐚𝐭𝐨𝐫] @Dr_Asad_Ali
+┣★ [𝐇𝐞𝐚𝐫𝐭]     @Give_Me_Heart
+┣★ [𝐁𝐨𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐬] @AsadSupport)
+┣★ [𝐎𝐮𝐫 𝐅𝐞𝐝] @Part_Of_Rocks)
+┣★ [𝐆𝐫𝐨𝐮𝐩] @Shayri_Music_Lovers)
+┗━━━━━━━━━━━━━━━━━┛
+💞 
+IF HAVE ANY QUESTION OR WANT REPO THEN CONTACT » TO » MY » [OWNER] @Dr_Asad_Ali"""
