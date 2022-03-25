@@ -46,6 +46,7 @@ By @AsadSupport And @Alexa_Help
 /about - About The Bot
 /help - This Message
 /start - Start the Bot
+/repo - Get Repo
 /generate - Start Generating Session
 /cancel - Cancel the process
 /restart - Cancel the process
