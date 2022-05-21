@@ -2,12 +2,12 @@
 
 Thia Bot Will Allow You To Generate Pyrogram And Telethon String For Telegram Developed  ❤️
 
-<p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/27bfcfbb9d72fb3f3a1ca.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/Dr_Assad_Ali"><img src="https://telegra.ph/file/27bfcfbb9d72fb3f3a1ca.jpg" width="300"></a></p>
 <p align="center">
-    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
+    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&colosr=red" /></a>
     <a href="https://github.com/jankarikiduniya/StringSessionBot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
     <a href="https://app.codacy.com/gh/jankarikiduniya/StringSessionBot/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
-    <a href="https://github.com/jankarikiduniya/StringSessionBot"> <img src="https://img.shields.io/github/repo-size/jankarikiduniya/StringSessionBot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/jankarikiduniya/StringSessionBot"> <img src="https://img.shields.io/github/repo-size/jankarikiduniya/StringSessionBo?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
     <a href="https://github.com/jankarikiduniya/StringSessionBot/commits/main"> <img src="https://img.shields.io/github/last-commit/jankarikiduniya/RocksMusic2.0?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
     <a href="https://github.com/jankarikiduniya/StringSessionBot/issues"> <img src="https://img.shields.io/github/issues/?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
     <a href="https://github.com/jankarikiduniya/StringSessionBot/network/members"> <img src="https://img.shields.io/github/forks/jankarikiduniya/StringSessionBot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
@@ -24,7 +24,7 @@ Thia Bot Will Allow You To Generate Pyrogram And Telethon String For Telegram De
 ## Heroku Deployment ❤️
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jankarikiduniya/Session_Generator_Robot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jankarikiduniya/Session_Robot)
 
 ### Asad– History
 
