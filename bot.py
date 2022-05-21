@@ -10,9 +10,9 @@ logging.basicConfig(
 
 app = Client(
     ":memory:",
-    api_id=Config.API_ID,
-    api_hash=Config.API_HASH,
-    bot_token=Config.BOT_TOKEN,
+    api_id=env.API_ID,
+    api_hash=env.API_HASH,
+    bot_token=env.BOT_TOKEN,
     plugins=dict(root="StringSessionBot"),
 )
 
