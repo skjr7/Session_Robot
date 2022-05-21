@@ -1,1 +1,1 @@
-worker: python3 session.py
+worker: python3 string.py
