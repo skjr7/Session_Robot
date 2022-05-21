@@ -1,7 +1,7 @@
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 from pyrogram.errors import ChatAdminRequired, UserNotParticipant, ChatWriteForbidden
-from Config import MUST_JOIN
+from config import MUST_JOIN
 
 
 @Client.on_message(~filters.edited & filters.incoming & filters.private, group=-1)
@@ -22,7 +22,7 @@ async def must_join_channel(bot: Client, msg: Message):
                     f"You must join [this channel]({link}) to use me. After joining try again !",
                     disable_web_page_preview=True,
                     reply_markup=InlineKeyboardMarkup([
-                        [InlineKeyboardButton("✨ Join Channel ✨", url=link)]
+                        [InlineKeyboardButton("✨ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ ✨", url=link)]
                     ])
                 )
                 await msg.stop_propagation()
