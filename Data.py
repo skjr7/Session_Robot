@@ -5,38 +5,34 @@ class Data:
     # Start Message
     START = """
 Hey {}
-
 Welcome to {}
-
 If you don't trust this bot, 
 1) stop reading this message
 2) delete this chat
-
 Still reading?
-You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
-
+You can use me to generate Pyrogram and Telethon string session. Use below buttons to learn more !
 By @Shayri_Music_Lovers And @AsadSupport
     """
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")]
+        [InlineKeyboardButton("🔥 sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ 🔥", callback_data="generate")],
+        [InlineKeyboardButton(text="🏠 ʀᴇᴛᴜʀɴ ʜᴏᴍᴇ 🏠", callback_data="home")]
     ]
 
     generate_button = [
-        [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")]
+        [InlineKeyboardButton("🔥 sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ 🔥", callback_data="generate")]
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/AsadSupport/77")],
+        [InlineKeyboardButton("🔥 sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ 🔥", callback_data="generate")],
+        [InlineKeyboardButton("✨ ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs ✨", url="https://t.me/AsadSupport/77")],
         [
-            InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
+            InlineKeyboardButton("🤔 ʜᴏᴡ ᴛᴏ ᴜsᴇ 🤔", callback_data="help"),
+            InlineKeyboardButton("🎪 ᴀʙᴏᴜᴛ 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/Alexa_Help")],
+        [InlineKeyboardButton("💌 ᴏᴛʜᴇʀ ʙᴏᴛs 💌", url="https://t.me/Alexa_Help")],
     ]
 
     # Help Message
@@ -59,12 +55,9 @@ By @Shayri_Music_Lovers And @AsadSupport
 A telegram bot to generate pyrogram and telethon string session by @AsadSupport
 
 Source Code : [Click Here](https://t.me/Alexa_Help)
-
 Framework : [Pyrogram](docs.pyrogram.org)
-
 Language : [Python](www.python.org)
-
-Developer : @Dr_Asad_Ali
+Developer : @Dr_Assad_Ali
     """
 
     # Repo Message
