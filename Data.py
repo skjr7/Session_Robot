@@ -29,7 +29,7 @@ If you don't trust this bot,
 2) delete this chat
 Still reading?
 You can use me to generate Pyrogram and Telethon string session. Use below buttons to learn more !
-By @Shayri_Music_Lovers And @AsadSupport
+By @mafia_kings_queens And @Suryaakumar
     """
 
     HELP = """
@@ -53,7 +53,7 @@ A telegram bot to generate pyrogram and telethon string session by @AsadSupport
 Source Code : [Click Here](https://t.me/Alexa_Help)
 Framework : [Pyrogram](docs.pyrogram.org)
 Language : [Python](www.python.org)
-Developer : @Dr_Assad_Ali
+Developer : @Suryaakumar
     """
 
     # Repo Message
@@ -64,12 +64,12 @@ Developer : @Dr_Assad_Ali
 ━━━━━━━━━━━━━━━━━
 GENERATE SESSION FOR TG...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ [𝐂𝐫𝐞𝐚𝐭𝐨𝐫] [Asad Ali](https://t.me/Dr_Asad_Ali)
-┣★ [𝐇𝐞𝐚𝐫𝐭]   [Heart ❤️](https://t.me/Give_Me_Heart)
+┣★ [𝐂𝐫𝐞𝐚𝐭𝐨𝐫] [Suryaa Kumar](https://t.me/Dr_Asad_Ali)
+┣★ [𝐇𝐞𝐚𝐫𝐭]   [Heart ❤️](https://t.me/About_SuryaaKumarJr
 ┣★ [𝐁𝐨𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐬] [Our Other Bots](https://t.me/AsadSupport)
-┣★ [𝐎𝐮𝐫 𝐅𝐞𝐝] [Fed Logs](https://t.me/Part_Of_Rocks)
-┣★ [𝐍𝐞𝐭𝐰𝐨𝐫𝐤] [Rocks](https://t.me/Shayri_Music_Lovers)
+┣★ [𝐎𝐮𝐫 𝐅𝐞𝐝] [Fed](https://t.me/mafiaking_fed)
+┣★ [𝐍𝐞𝐭𝐰𝐨𝐫𝐤] [Chat](https://t.me/Friendstamilchatting)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 
-IF HAVE ANY QUESTION OR WANT REPO THEN CONTACT » TO » MY » [OWNER] @Dr_Asad_Ali
+IF HAVE ANY QUESTION OR WANT REPO THEN CONTACT » TO » MY » [OWNER] @Suryaakumar
    """
